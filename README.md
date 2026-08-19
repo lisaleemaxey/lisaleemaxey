@@ -18,6 +18,9 @@ I'm not a software engineer. I'm an enablement leader who decided the fastest wa
 An end-to-end Claude Code workflow that turns a source document into a complete training package — plain-language explainer, quiz with answer key, facilitator guide, and cheat sheet — in about 60 seconds. Built from zero prior terminal experience.
 [**View the live generated artifact →**](https://claude.ai/code/artifact/e4866bc6-e900-4498-90df-80f40542907d)
 
+### 🔄 [Agentic Data Triage Automation](https://github.com/lisaleemaxey/agentic-data-triage-automation)
+A Claude Cowork automation that ingests multi-source data, categorizes and tiers it by priority, and manages state end-to-end — a reusable pattern for support triage, lead sorting, or any high-volume intake workflow.
+
 ## Background
 
 - 11 years, Digital Education Specialist & Program Lead — built an enterprise learning program from scratch for 4,000+ professionals
