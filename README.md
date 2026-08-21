@@ -21,6 +21,10 @@ An end-to-end Claude Code workflow that turns a source document into a complete 
 ### 🔄 [Agentic Data Triage Automation](https://github.com/lisaleemaxey/agentic-data-triage-automation)
 A Claude Cowork automation that ingests multi-source data, categorizes and tiers it by priority, and manages state end-to-end — a reusable pattern for support triage, lead sorting, or any high-volume intake workflow.
 
+### ✍️ [Penbrave](https://github.com/lisaleemaxey/penbrave)
+An AI-powered writing companion that structures ideas *before* and *during* writing — not just after. Most AI writing tools give feedback on a finished draft; Penbrave works upstream, shaping raw notes (or a cold start) into purposeful writing, with coaching tone and scaffolding calibrated to the writer's confidence level.
+[**Try it live →**](https://lisaleemaxey.github.io/penbrave/)
+
 ## Background
 
 - 11 years, Digital Education Specialist & Program Lead — built an enterprise learning program from scratch for 4,000+ professionals
