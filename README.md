@@ -25,6 +25,10 @@ A Claude Cowork automation that ingests multi-source data, categorizes and tiers
 An AI-powered writing companion that structures ideas *before* and *during* writing — not just after. Most AI writing tools give feedback on a finished draft; Penbrave works upstream, shaping raw notes (or a cold start) into purposeful writing, with coaching tone and scaffolding calibrated to the writer's confidence level.
 [**Try it live →**](https://lisaleemaxey.github.io/penbrave/)
 
+### ⚡ [Agentic Data Triage Engine](https://github.com/lisaleemaxey/data-triage)
+A single-file agentic triage tool — paste unstructured items, get back categorized, prioritized, action-flagged results with reasoning. Built with session-based state management (djb2 hashing) and deliberate API-key-in-memory-only security architecture.
+[**Try it live →**](https://lisaleemaxey.github.io/data-triage/)
+
 ## Background
 
 - 11 years, Digital Education Specialist & Program Lead — built an enterprise learning program from scratch for 4,000+ professionals
